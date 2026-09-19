@@ -13,5 +13,5 @@
 :fire:   Estou aprimorando minhas habilidades em construção de interfaces e boas práticas de desenvolvimento web.
  <br>
 🚀 Tenho como objetivo evoluir constantemente, expandindo meu conhecimento em front-end e back-end, e contribuir com soluções criativas e eficientes para equipes de tecnologia.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkmoret)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![PkMoret GitHub stats](https://github-readme-stats.vercel.app/api?username=pkmoreta&hide=contribs,prs)
