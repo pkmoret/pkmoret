@@ -14,4 +14,4 @@
  <br>
 🚀 Tenho como objetivo evoluir constantemente, expandindo meu conhecimento em front-end e back-end, e contribuir com soluções criativas e eficientes para equipes de tecnologia.
 <br>
-![PkMoret GitHub stats](https://github-readme-stats.vercel.app/api?username=pkmoreta&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkmoret)](https://github.com/anuraghazra/github-readme-stats)
